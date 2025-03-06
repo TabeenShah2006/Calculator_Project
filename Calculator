@@ -1,3 +1,31 @@
 Console.WriteLine("My name is: Tabeen Shah");
 Console.WriteLine("My rollno is: 24-ST-061");
 Console.ReadLine();
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+-----------------------------------------------------
+                 ~(Division)~
+int a = 8;
+int b = 2;
+int division = 8/2;
+Console.WriteLine($" The division of a & b is: {division}");
+Console.ReadLine();
+........................................................

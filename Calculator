@@ -7,6 +7,7 @@ Console.ReadLine();
 
 
 
+ Multiplication
 
 
 
@@ -39,3 +40,12 @@ int multiply = a * b;
 Console.WriteLine($" The multiplication of a & b is: {multiply}");
 Console.ReadLine();
 Multiplication
+
+---------------------------------------------------------
+                 ~(Subtraction)~
+int a = 3;
+int b = 2;
+int subtract = a - b;
+Console.WriteLine($" The Subtraction of a & b is: {subtract}");
+Console.ReadLine();
+Subtraction

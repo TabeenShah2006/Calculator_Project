@@ -14,6 +14,7 @@ Console.ReadLine();
 
 
 
+Division
 
 
 
@@ -29,3 +30,12 @@ int division = 8/2;
 Console.WriteLine($" The division of a & b is: {division}");
 Console.ReadLine();
 ........................................................
+
+--------------------------------------------------------------------
+                          ~(Multiplication)~
+int a = 7;
+int b = 6;
+int multiply = a * b;
+Console.WriteLine($" The multiplication of a & b is: {multiply}");
+Console.ReadLine();
+Multiplication

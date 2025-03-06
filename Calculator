@@ -1,3 +1,16 @@
 Console.WriteLine("My name is: Tabeen Shah");
 Console.WriteLine("My rollno is: 24-ST-061");
 Console.ReadLine();
+
+
+
+
+
+
+---------------------------------------------------------
+                 ~(Subtraction)~
+int a = 3;
+int b = 2;
+int subtract = a - b;
+Console.WriteLine($" The Subtraction of a & b is: {subtract}");
+Console.ReadLine();
